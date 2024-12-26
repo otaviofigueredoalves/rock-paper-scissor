@@ -20,7 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Live App URL: [LIVE SITE](https://otaviofigueredoalves.github.io/rock-paper-scissor/)
+- Live App URL: [LIVE SITE](https://otaviofigueredoalves.github.io/rock-paper-scissor/);
+- Challenge Site: [CHALLENGE](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors);
 
 ## My process
 
