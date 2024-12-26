@@ -16,7 +16,7 @@
 
 Users should be able to:
 
-- Play rock, paper or scissor with the computer;
+- Play 5 rounds of rock, paper or scissor with the computer;
 
 ### Links
 
