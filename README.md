@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Otavio F.Alves](otaviofigueredoalves.github.io/portfolio)
+- Website - [Otavio F.Alves](https://otaviofigueredoalves-portfolio.vercel.app/)
 
