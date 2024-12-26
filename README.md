@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Live App URL: [LIVE SITE](otaviofigueredoalves.github.io/rock-paper-scissor)
+- Live App URL: [LIVE SITE](https://otaviofigueredoalves.github.io/rock-paper-scissor/)
 
 ## My process
 
