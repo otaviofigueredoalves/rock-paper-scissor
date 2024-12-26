@@ -18,13 +18,11 @@ function humanChoice() {
   } else {
     choice = 2;
   }
-  console.log(choice);
   return choice;
 }
 
 function computerChoice() {
   let choiceC = Math.floor(3 * Math.random());
-  console.log(choiceC);
   return choiceC;
 }
 
